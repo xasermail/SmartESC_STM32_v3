@@ -19,6 +19,7 @@ Wait until the running workflow is finished, then click on the workflow headline
 Download the zipfile with the generated zipfile by clicking on the cube icon at the bottom of the page.  
 You can find a tutorial at [YouTube](https://youtu.be/Pe2UTPPxX7U)  
 
+
 Method 2 (lokal installation):  
 Install the [STM Cube IDE](https://www.st.com/en/development-tools/stm32cubeide.html#overview&secondary=st-get-software)  
 Start the IDE and install egit from the eclipse marketplace (Help --> Eclipse Marketplace...)  
